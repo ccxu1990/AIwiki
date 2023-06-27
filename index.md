@@ -14,7 +14,7 @@
 [开放知识图谱](http://openkg.cn/home)
 ### 模型
 
-[开源开放 | 开源知识图谱抽取工具发布大模型版DeepKE-LLM](https://mp.weixin.qq.com/s?__biz=MzAxMTU5Njg4NQ==&mid=2247494530&idx=3&sn=8cd99c2c18c8a1c29e54f28885915f6d&chksm=9bbc0eb8accb87ae00517116c376ba1cf107c8111adb3c7b6131ab42cbdcbea892ac8f7f4606&from=industrynews&version=4.1.6.6020&platform=win#rd) 
+[开源开放 | 开源知识图谱抽取工具发布大模型版DeepKE-LLM](https://mp.weixin.qq.com/s__biz=MzAxMTU5Njg4NQ==&mid=2247494530&idx=3&sn=8cd99c2c18c8a1c29e54f28885915f6d&chksm=9bbc0eb8accb87ae00517116c376ba1cf107c8111adb3c7b6131ab42cbdcbea892ac8f7f4606&from=industrynews&version=4.1.6.6020&platform=win#rd) 
 
 - [DeepKE-LLM链接](https://github.com/zjunlp/DeepKE/tree/main/example/llm)
 
@@ -22,3 +22,5 @@
 
 - [Gitee地址](https://gitee.com/openkg/deepke/tree/main/example/llm)
 
+## 文章
+[NLP（十七）：从 FlashAttention 到 PagedAttention, 如何进一步优化 Attention 性能](https://zhuanlan.zhihu.com/p/638468472)
