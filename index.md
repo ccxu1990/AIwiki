@@ -7,6 +7,8 @@
 
 ## 部署
 [闻达：一个大规模语言模型调用平台](https://github.com/wenda-LLM/wenda)
+
+[Mosec](https://github.com/mosecorg/mosec) is a high-performance and flexible model serving framework for building ML model-enabled backend and microservices. It bridges the gap between any machine learning models you just trained and the efficient online service API.
 ## Prompt Engineering
 2023.06.27 [《大模型时代的科研》之2: Prompt Engineering (提示词工程)](https://zhuanlan.zhihu.com/p/631922240)
 
@@ -24,3 +26,5 @@
 
 ## 文章
 [NLP（十七）：从 FlashAttention 到 PagedAttention, 如何进一步优化 Attention 性能](https://zhuanlan.zhihu.com/p/638468472)
+
+[开源原驼（Guanaco）及背后的QLoRA技术，将微调65B模型的显存需求从780GB以上降低到48GB以下，效果直逼GPT-4，技术详解](https://zhuanlan.zhihu.com/p/632236718)
