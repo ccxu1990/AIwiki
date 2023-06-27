@@ -2,6 +2,9 @@
 
 ## AI finetune
 [百川大模型(baichuan-7B)微调实战 - GPT 模型微调实战指南（六）](https://mp.weixin.qq.com/s?__biz=MzAwNDQ5MDYwOA==&mid=2648970608&idx=1&sn=b5101169cb7c12b226eb02dfa6c8dc98&chksm=833ba16fb44c28799ddde2f9ceccdedfa7db327cae0aaee23e5c7a6454d201c6ffc163b59f53&from=industrynews&version=4.1.6.6020&platform=win#rd)
+
+[QLoRA: Efficient Finetuning of Quantized LLMs](https://github.com/artidoro/qlora)
+
 ## 知识库
 [Chinese-LangChain](https://github.com/yanqiangmiffy/Chinese-LangChain)
 
