@@ -31,3 +31,10 @@
 [NLP（十七）：从 FlashAttention 到 PagedAttention, 如何进一步优化 Attention 性能](https://zhuanlan.zhihu.com/p/638468472)
 
 [开源原驼（Guanaco）及背后的QLoRA技术，将微调65B模型的显存需求从780GB以上降低到48GB以下，效果直逼GPT-4，技术详解](https://zhuanlan.zhihu.com/p/632236718)
+
+[深入LSTM神经网络的时间序列预测](https://mp.weixin.qq.com/s?__biz=Mzg4NTUzNzE5OQ==&mid=2247539052&idx=1&sn=5a55c9829addbcc39259766083fa86e2&chksm=cfa579acf8d2f0ba3e270e987b2c7d37c3c02bcb4011835ebefa0e45188a43f44bcbb74df3e6&from=industrynews&version=4.1.7.6018&platform=win#rd)
+
+## 其他
+[NLP 百面百搭地址](https://github.com/km1994/NLP-Interview-Notes)
+
+[LLMs 九层妖塔：](https://github.com/km1994/LLMsNineStoryDemonTower)
