@@ -40,3 +40,5 @@ Colossal-AI首个开源了650亿参数LLaMA低成本预训练方案。
 [NLP 百面百搭地址](https://github.com/km1994/NLP-Interview-Notes)
 
 [LLMs 九层妖塔：](https://github.com/km1994/LLMsNineStoryDemonTower)
+
+[databricks AI 教程](https://github.com/databricks-academy/large-language-models)
