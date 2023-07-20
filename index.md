@@ -1,5 +1,7 @@
 # AIWiki
-
+## 大模型预训练
+Colossal-AI首个开源了650亿参数LLaMA低成本预训练方案。
+相比业界其他主流选择，该方案可提升预训练速度38%，仅需32张A100/A800即可使用，并且不限制商业使用。https://github.com/hpcaitech/ColossalAI
 ## AI finetune
 [百川大模型(baichuan-7B)微调实战 - GPT 模型微调实战指南（六）](https://mp.weixin.qq.com/s?__biz=MzAwNDQ5MDYwOA==&mid=2648970608&idx=1&sn=b5101169cb7c12b226eb02dfa6c8dc98&chksm=833ba16fb44c28799ddde2f9ceccdedfa7db327cae0aaee23e5c7a6454d201c6ffc163b59f53&from=industrynews&version=4.1.6.6020&platform=win#rd)
 
