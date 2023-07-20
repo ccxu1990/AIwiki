@@ -42,3 +42,5 @@ Colossal-AI首个开源了650亿参数LLaMA低成本预训练方案。
 [LLMs 九层妖塔：](https://github.com/km1994/LLMsNineStoryDemonTower)
 
 [databricks AI 教程](https://github.com/databricks-academy/large-language-models)
+
+[CLUENER细粒度实体命名识别](https://github.com/CLUEbenchmark/CLUENER2020)
