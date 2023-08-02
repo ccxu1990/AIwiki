@@ -36,6 +36,7 @@ Colossal-AI首个开源了650亿参数LLaMA低成本预训练方案。
 
 [深入LSTM神经网络的时间序列预测](https://mp.weixin.qq.com/s?__biz=Mzg4NTUzNzE5OQ==&mid=2247539052&idx=1&sn=5a55c9829addbcc39259766083fa86e2&chksm=cfa579acf8d2f0ba3e270e987b2c7d37c3c02bcb4011835ebefa0e45188a43f44bcbb74df3e6&from=industrynews&version=4.1.7.6018&platform=win#rd)
 
+[基于机器阅读理解（MRC）的信息抽取方法](https://www.infoq.cn/article/8cMarfPxQbQVtLfzv0eu)
 ## 其他
 [NLP 百面百搭地址](https://github.com/km1994/NLP-Interview-Notes)
 
