@@ -45,3 +45,6 @@ Colossal-AI首个开源了650亿参数LLaMA低成本预训练方案。
 [databricks AI 教程](https://github.com/databricks-academy/large-language-models)
 
 [CLUENER细粒度实体命名识别](https://github.com/CLUEbenchmark/CLUENER2020)
+
+##书籍
+[Neural language processing with transformers](https://github.com/nlp-with-transformers/notebooks)
