@@ -29,6 +29,14 @@ Colossal-AI首个开源了650亿参数LLaMA低成本预训练方案。
 
 - [Gitee地址](https://gitee.com/openkg/deepke/tree/main/example/llm)
 
+### 信息提取模型
+[Nougat：一种用于科学文档OCR的Transformer 模型](https://facebookresearch.github.io/nougat/)
+
+[阿里大模型信息抽取模型github](https://github.com/Alibaba-NLP/SeqGPT)
+
+[模搭地址](https://www.modelscope.cn/models/damo/nlp_seqgpt-560m/)
+
+
 ## 文章
 [NLP（十七）：从 FlashAttention 到 PagedAttention, 如何进一步优化 Attention 性能](https://zhuanlan.zhihu.com/p/638468472)
 
