@@ -36,6 +36,9 @@ Colossal-AI首个开源了650亿参数LLaMA低成本预训练方案。
 
 [模搭地址](https://www.modelscope.cn/models/damo/nlp_seqgpt-560m/)
 
+### 法律大模型
+
+[复旦大学DISC-LawLLM法律大模型](https://github.com/FudanDISC/DISC-LawLLM)
 
 ## 文章
 [NLP（十七）：从 FlashAttention 到 PagedAttention, 如何进一步优化 Attention 性能](https://zhuanlan.zhihu.com/p/638468472)
